@@ -1,0 +1,18 @@
+{
+  "name": "river",
+  "version": "1.0.0",
+  "description": "River Tunnel",
+  "main": "index.js",
+  "scripts": {
+    "build": "nexe -r ./**"
+  },
+  "author": "NEJAN",
+  "license": "NONE",
+  "dependencies": {
+    "axios" : "",
+    "ws" : "",
+    "readline" : "",
+    "express" : "",
+    "express-ws" : ""
+  }
+}
